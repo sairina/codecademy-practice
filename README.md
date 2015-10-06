@@ -1,6 +1,6 @@
 # codecademy-practice
-15 Practice Projects: Making Websites
-Codecademy HTML and CSS projects.
-Broadway: https://www.codecademy.com/sairina/codebits/cbegyU
-Innovation-cloud: https://www.codecademy.com/sairina/codebits/D88wiM
+15 Practice Projects: Making Websites<br>
+Codecademy HTML and CSS projects.<br>
+<strong>Broadway:</strong> https://www.codecademy.com/sairina/codebits/cbegyU<br>
+<strong>Innovation-cloud:</strong> https://www.codecademy.com/sairina/codebits/D88wiM<br>
 
